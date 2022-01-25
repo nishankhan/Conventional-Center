@@ -28,7 +28,7 @@ body{
 
 .btn{
     background-color: lightcyan;
-    color:;
+   
 }
 .butoon{
     background-color: #FFFFFF;
@@ -62,6 +62,9 @@ body{
     .carousel-item img{
         height: 200px;
         width: 400px;
+    }
+    .midea{
+        display: none;
     }
 }
 
