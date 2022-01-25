@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Moon+Dance&family=Oswald:wght@200;500;700&family=Poppins:ital,wght@0,600;1,500;1,600&display=swap');
+body{
+    font-family: 'Inter', sans-serif;
+}
+.rr{
+    list-style: none;
+}
+.special{
+    position: relative;
+    background: pink;
+    border-radius: 20px;
+}
+.hot{
+    position: absolute;
+    top: -3%;
+    right: 10%;
+    background-color: #FF4E4E;
+}
+.fair{
+    color: #231D4F;
+}
+.o{
+    color: darksalmon;
+}
+.po{
+    color: rgb(135, 146, 146);
+}
+
+.btn{
+    background-color: lightcyan;
+    color:;
+}
+.butoon{
+    background-color: #FFFFFF;
+}
+.carousel-item img{
+    height: 587px;
+    width: 1440px;
+}
+.of{
+    color:#4772B2;
+}
+.on{
+    color: #425F6A;
+}
+.top{
+    color: rgb(146, 225, 228);
+}
+.bd{
+    color: bisque;
+}
+.qu{
+    color: rgb(179, 230, 129);
+}
+.a{
+    color: rgb(172, 172, 218);
+}
+.q{
+    color: rgb(180, 106, 180);
+}
+@media (max-width:415px) {
+    .carousel-item img{
+        height: 200px;
+        width: 400px;
+    }
+}
+
